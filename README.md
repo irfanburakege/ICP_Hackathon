@@ -1,5 +1,3 @@
-# ICP_Hackathon
-
 # ICP-Hackathon
 
 #Project Name:
